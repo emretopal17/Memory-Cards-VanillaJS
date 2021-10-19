@@ -1,2 +1,4 @@
 # Memory-Cards-VanillaJS
-Pure JavaScript application.
+Pure JavaScript application with Local Storage.
+
+ Project:  [Live Demo](https://emretopal17.github.io/Memory-Cards-VanillaJS/)
